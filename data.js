@@ -30,9 +30,21 @@ const users = [
       picture: "wedding.png"
     },
       {
-      title: "Cinema Movie",
+      title: "Cinema Movie in Pasay",
       description: "This is where we watch in the movie called 'Moon' in directors clubs",
       location: "Pasay City, Manila",
       picture: "movie.png"
-    }
+    },
+      {
+      title: "Cine Movie in San Pablo",
+      description: "This is where me and my friends watched the movie called 'Barbie' in SM San Pablo",
+      location: "San Pablo, Launa",
+      picture: "cine.jpg"
+    },
+      {
+      title: "Enrollment in PUP",
+      description: "This is where my friends came with me for enrollment in PUP",
+      location: "Sto Tomas, Batangas",
+      picture: "enrollment.jpg"
+    },
   ];
